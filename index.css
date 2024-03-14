@@ -24,9 +24,6 @@ a {
   margin: 0;
   height: auto;
 }
-a: visited {
-  color: #d2a4ab;
-}
 
 header, ul {
   font-family: 'Londrina Outline', cursive;
