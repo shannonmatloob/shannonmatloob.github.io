@@ -62,4 +62,5 @@ p {
   /* text-align: center; */
   font-family: "Playfair Display", serif;
   font-size: 1rem;
+  width: 75 auto;
 }
