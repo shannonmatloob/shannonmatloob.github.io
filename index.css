@@ -1,7 +1,6 @@
 h1 {
+  font-family: "Antic Didone", serif
   margin-top: 1%;
-  font-family: 'Sansita One', cursive;
-  /* font-family: "Playfair Display", serif; */
   font-size: 3.5rem;  
 }
 
@@ -12,6 +11,7 @@ ul {
 }
 
 li {
+  font-family: "Antic Didone", serif
   display: inline-flex;
   margin: 1.5%;
 }
@@ -24,8 +24,7 @@ a {
   height: auto;
 }
 
-header, ul {
-  /*font-family: 'Londrina Outline', cursive;*/
+header, ul {  
   font-family: "Playfair Display", serif;
   font-size: 1rem;
   text-align: center;
