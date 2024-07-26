@@ -1,7 +1,7 @@
 h1 {
   font-family: "Antic Didone", serif;
   margin-top: 1%;
-  font-size: 3.5rem;  
+  font-size: 3rem;  
 }
 
 ul {
@@ -26,7 +26,7 @@ a {
 
 header, ul {  
   font-family: "Playfair Display", serif;
-  font-size: 1rem;
+  font-size: 1.25rem;
   text-align: center;
 }
 
@@ -48,7 +48,7 @@ img {
 p {
   box-sizing: border-box;  
   font-family: "Playfair Display", serif;
-  font-size: 1rem;  
+  font-size: 1.25rem;  
   margin: 2.5% 25%;
 }
 
