@@ -1,5 +1,5 @@
 h1 {
-  font-family: "Antic Didone", serif
+  font-family: "Antic Didone", serif;
   margin-top: 1%;
   font-size: 3.5rem;  
 }
@@ -11,7 +11,7 @@ ul {
 }
 
 li {
-  font-family: "Antic Didone", serif
+  font-family: "Antic Didone", serif;
   display: inline-flex;
   margin: 1.5%;
 }
@@ -31,7 +31,7 @@ header, ul {
 }
 
 span {
-  vertical-align:middle;
+  vertical-align: middle;
   border: 0;
 }
 
